@@ -1,0 +1,9 @@
+Inicio
+    LEER hambre
+    Si hambre === true ENTONCES
+        ESCRIBE "tengo hambre"
+    SINO
+        escribESCRIBE "estoy feliz"
+    FIN-SI
+
+fin
