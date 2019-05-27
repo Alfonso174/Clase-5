@@ -1,0 +1,14 @@
+Inicio
+    LEER nombre
+    LEER Password
+    Si nombre === "joel" ENTONCES
+        SI pasword === "123" ENTONCES
+            ESCRIBE "tienes acceso"
+        SINO
+            escribESCRIBE "contraseña incorrecta"
+        FIN-SI
+    SINO
+        ESCRIBE "error"
+    FIN-SI
+
+FIN
