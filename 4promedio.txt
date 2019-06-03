@@ -1,0 +1,11 @@
+INICIO
+    LEER Examen1
+    LEER Examen2
+    LEER Examen3
+    
+    Promedio= Examen1 + Examen2 + Examen3 / 3
+    Promedio >= 8.5 verdadero
+    Si ___entonces prememio
+    Si Promedio< 6
+    Escribe "castigo"
+    
